@@ -9,7 +9,7 @@ class HotelesPage extends StatelessWidget {
       'imagen': 'https://i.ibb.co/vCPxpVVw/1.jpg',
       'descripcion': 'Hotel cómodo y accesible en el centro de Nauta, con habitaciones equipadas y servicio de calidad.',
       'ubicacion': 'https://maps.app.goo.gl/Bpv7Xa87my9yFRmW6',
-      'telefono': '+51987654321',
+      'telefono': '+51943450213',
     },
     {
       'nombre': 'Hospedaje Shelomit',
