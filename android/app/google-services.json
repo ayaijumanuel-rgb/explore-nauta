@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1072815755569",
+    "project_id": "explore-nauta",
+    "storage_bucket": "explore-nauta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072815755569:android:54f2cc247d5948e25de010",
+        "android_client_info": {
+          "package_name": "com.example.explore_nauta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072815755569-5rdq8efkfdld0cnpl8es3tcj8tcs1aj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.explore_nauta",
+            "certificate_hash": "d0864709eca2f876c3a3a0ad64203c31e2e77448"
+          }
+        },
+        {
+          "client_id": "1072815755569-gq6r9rri81dfe8m69d7mo99ndmpdcrb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ZIEmlBmCuUGOAElAlsWZ3_teD7qlBrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072815755569-gq6r9rri81dfe8m69d7mo99ndmpdcrb0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072815755569-lbjfeckal03hch1p2d1v07e2gghpp49v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.exploreNauta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

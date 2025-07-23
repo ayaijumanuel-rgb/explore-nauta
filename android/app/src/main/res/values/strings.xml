@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">717392541201614</string>
+    <string name="facebook_client_token">47415937398b22a62b3769cd7b627413</string>
+    <string name="fb_login_protocol_scheme">fb717392541201614</string>
+    
+    <!-- 👇 Esta línea es la que falta -->
+    <string name="app_name">explorenauta</string>
+</resources>
